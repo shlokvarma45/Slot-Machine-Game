@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-1. Clone the repository: git clone [https://github.com/shlokvarma45/Slot-Machine-Game.git](https://github.com/your-username/your-repo-name.git)
+1. Clone the repository: git clone [https://github.com/shlokvarma45/Slot-Machine-Game.git](https://github.com/shlokvarma45/Slot-Machine-Game)
 
 ```plaintext
 2. Navigate to the project directory:
